@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3,
+    "room_code": "503791",
+    "event_id": 4,
+    "allow_comment": 1,
+    "likes_count": 0,
+    "viewers_count": 0,
+    "created_at": "2024-04-11T01:33:16.000Z",
+    "updated_at": "2024-04-11T01:33:16.000Z"
+  },
+  {
+    "id": 4,
+    "room_code": "352720",
+    "event_id": 7,
+    "allow_comment": 1,
+    "likes_count": 0,
+    "viewers_count": 0,
+    "created_at": "2024-04-17T05:50:25.000Z",
+    "updated_at": "2024-04-17T05:50:25.000Z"
+  }
+]

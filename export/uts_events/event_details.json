@@ -1,0 +1,38 @@
+[
+  {
+    "id": 7,
+    "name": "Event 1",
+    "category": "Comedy",
+    "start_date": "2024-04-11T16:00:00.000Z",
+    "end_date": "2024-04-12T16:00:00.000Z",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac pulvinar orci. Praesent eleifend, diam quis bibendum tristique, dolor nisi cursus nibh, sed accumsan dui libero sit amet eros. Cras eu eros nec dui finibus luctus. Vivamus vitae sapien ex. In tortor mauris, sodales vitae eros at, fringilla blandit ligula. Nunc varius sapien sit amet fermentum vehicula. Nulla ut velit leo. Morbi metus justo, sollicitudin at tortor et, pulvinar rhoncus nunc.",
+    "faq": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac pulvinar orci. Praesent eleifend, diam quis bibendum tristique, dolor nisi cursus nibh, sed accumsan dui libero sit amet eros. Cras eu eros nec dui finibus luctus. Vivamus vitae sapien ex. In tortor mauris, sodales vitae eros at, fringilla blandit ligula. Nunc varius sapien sit amet fermentum vehicula. Nulla ut velit leo. Morbi metus justo, sollicitudin at tortor et, pulvinar rhoncus nunc.",
+    "organizer_id": 1,
+    "created_at": "2024-04-17T05:50:25.000Z",
+    "updated_at": "2024-04-17T05:50:25.000Z",
+    "room_code": "352720",
+    "likes_count": 0,
+    "viewers_count": 0,
+    "allow_comment": 1,
+    "organizer_name": "EventOrganizer1",
+    "total_tickets": 2
+  },
+  {
+    "id": 4,
+    "name": "Event 1",
+    "category": "Comedy",
+    "start_date": "2024-04-11T16:00:00.000Z",
+    "end_date": "2024-04-11T16:00:00.000Z",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac pulvinar orci. Praesent eleifend, diam quis bibendum tristique, dolor nisi cursus nibh, sed accumsan dui libero sit amet eros. Cras eu eros nec dui finibus luctus. Vivamus vitae sapien ex. In tortor mauris, sodales vitae eros at, fringilla blandit ligula. Nunc varius sapien sit amet fermentum vehicula. Nulla ut velit leo. Morbi metus justo, sollicitudin at tortor et, pulvinar rhoncus nunc.",
+    "faq": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac pulvinar orci. Praesent eleifend, diam quis bibendum tristique, dolor nisi cursus nibh, sed accumsan dui libero sit amet eros. Cras eu eros nec dui finibus luctus. Vivamus vitae sapien ex. In tortor mauris, sodales vitae eros at, fringilla blandit ligula. Nunc varius sapien sit amet fermentum vehicula. Nulla ut velit leo. Morbi metus justo, sollicitudin at tortor et, pulvinar rhoncus nunc.",
+    "organizer_id": 1,
+    "created_at": "2024-04-11T01:33:16.000Z",
+    "updated_at": "2024-04-11T01:33:16.000Z",
+    "room_code": "503791",
+    "likes_count": 0,
+    "viewers_count": 0,
+    "allow_comment": 1,
+    "organizer_name": "EventOrganizer1",
+    "total_tickets": 2
+  }
+]

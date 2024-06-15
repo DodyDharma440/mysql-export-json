@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "name": "User male",
+    "username": "usermale",
+    "password": "$2y$10$if/udWuyfneYAXaHihjqRei5aFh4acYmyQfXPYtKDCtjq6fXjifXG",
+    "about": "Lorem ipsum dolor sit amet",
+    "gender": "male",
+    "email": "usermale@example.com",
+    "created_at": "2024-04-17T06:03:57.000Z",
+    "updated_at": "2024-04-17T06:03:57.000Z"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "mysql-export-json",
+  "version": "1.0.0",
+  "description": "Export JSON dari database MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "export": "esno index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "esno": "^4.7.0",
+    "mysql2": "^3.10.1"
+  }
+}

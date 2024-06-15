@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Dodi Aditya",
+    "username": "dodiaditya",
+    "password": "$2y$10$auuI0MVf7tcpG7YFIrTXYuHAiS2tTYgwIvV.9tq9RJtP6FfmQGGge",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac pulvinar orci. Praesent eleifend, diam quis bibendum tristique, dolor nisi cursus nibh, sed accumsan dui libero sit amet eros. Cras eu eros nec dui finibus luctus. Vivamus vitae sapien ex. In tortor mauris, sodales vitae eros at, fringilla blandit ligula. Nunc varius sapien sit amet fermentum vehicula. Nulla ut velit leo. Morbi metus justo, sollicitudin at tortor et, pulvinar rhoncus nunc.",
+    "gender": "male",
+    "email": "dodiaditya@example.com",
+    "created_at": "2024-04-10T20:42:42.000Z",
+    "updated_at": "2024-04-10T20:42:42.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Gova Prapta",
+    "username": "govaprapta",
+    "password": "$2y$10$auuI0MVf7tcpG7YFIrTXYuHAiS2tTYgwIvV.9tq9RJtP6FfmQGGge",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac pulvinar orci. Praesent eleifend, diam quis bibendum tristique, dolor nisi cursus nibh, sed accumsan dui libero sit amet eros. Cras eu eros nec dui finibus luctus. Vivamus vitae sapien ex. In tortor mauris, sodales vitae eros at, fringilla blandit ligula. Nunc varius sapien sit amet fermentum vehicula. Nulla ut velit leo. Morbi metus justo, sollicitudin at tortor et, pulvinar rhoncus nunc.",
+    "gender": "male",
+    "email": "govaprapta@example.com",
+    "created_at": "2024-04-10T20:43:08.000Z",
+    "updated_at": "2024-04-10T20:43:08.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Rio Arijona",
+    "username": "rioarijona",
+    "password": "$2y$10$auuI0MVf7tcpG7YFIrTXYuHAiS2tTYgwIvV.9tq9RJtP6FfmQGGge",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac pulvinar orci. Praesent eleifend, diam quis bibendum tristique, dolor nisi cursus nibh, sed accumsan dui libero sit amet eros. Cras eu eros nec dui finibus luctus. Vivamus vitae sapien ex. In tortor mauris, sodales vitae eros at, fringilla blandit ligula. Nunc varius sapien sit amet fermentum vehicula. Nulla ut velit leo. Morbi metus justo, sollicitudin at tortor et, pulvinar rhoncus nunc.",
+    "gender": "male",
+    "email": "rioarijona@example.com",
+    "created_at": "2024-04-10T20:43:31.000Z",
+    "updated_at": "2024-04-10T20:43:31.000Z"
+  },
+  {
+    "id": 4,
+    "name": "User male",
+    "username": "usermale",
+    "password": "$2y$10$if/udWuyfneYAXaHihjqRei5aFh4acYmyQfXPYtKDCtjq6fXjifXG",
+    "about": "Lorem ipsum dolor sit amet",
+    "gender": "male",
+    "email": "usermale@example.com",
+    "created_at": "2024-04-12T08:08:17.000Z",
+    "updated_at": "2024-04-12T08:08:17.000Z"
+  },
+  {
+    "id": 5,
+    "name": "User female",
+    "username": "userfemale",
+    "password": "$2y$10$if/udWuyfneYAXaHihjqRei5aFh4acYmyQfXPYtKDCtjq6fXjifXG",
+    "about": "Lorem ipsum dolor sit amet",
+    "gender": "male",
+    "email": "userfemale@example.com",
+    "created_at": "2024-04-12T08:08:17.000Z",
+    "updated_at": "2024-04-12T08:08:17.000Z"
+  },
+  {
+    "id": 6,
+    "name": "User male",
+    "username": "usermale",
+    "password": "$2y$10$if/udWuyfneYAXaHihjqRei5aFh4acYmyQfXPYtKDCtjq6fXjifXG",
+    "about": "Lorem ipsum dolor sit amet",
+    "gender": "male",
+    "email": "usermale@example.com",
+    "created_at": "2024-04-12T08:08:39.000Z",
+    "updated_at": "2024-04-12T08:08:39.000Z"
+  },
+  {
+    "id": 7,
+    "name": "User female",
+    "username": "userfemale",
+    "password": "$2y$10$if/udWuyfneYAXaHihjqRei5aFh4acYmyQfXPYtKDCtjq6fXjifXG",
+    "about": "Lorem ipsum dolor sit amet",
+    "gender": "female",
+    "email": "userfemale@example.com",
+    "created_at": "2024-04-12T08:08:39.000Z",
+    "updated_at": "2024-04-12T08:08:39.000Z"
+  },
+  {
+    "id": 8,
+    "name": "User male",
+    "username": "usermale",
+    "password": "$2y$10$if/udWuyfneYAXaHihjqRei5aFh4acYmyQfXPYtKDCtjq6fXjifXG",
+    "about": "Lorem ipsum dolor sit amet",
+    "gender": "male",
+    "email": "usermale@example.com",
+    "created_at": "2024-04-17T06:03:57.000Z",
+    "updated_at": "2024-04-17T06:03:57.000Z"
+  },
+  {
+    "id": 9,
+    "name": "User female",
+    "username": "userfemale",
+    "password": "$2y$10$if/udWuyfneYAXaHihjqRei5aFh4acYmyQfXPYtKDCtjq6fXjifXG",
+    "about": "Lorem ipsum dolor sit amet",
+    "gender": "female",
+    "email": "userfemale@example.com",
+    "created_at": "2024-04-17T06:03:57.000Z",
+    "updated_at": "2024-04-17T06:03:57.000Z"
+  }
+]

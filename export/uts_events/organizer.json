@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "name": "EventOrganizer1",
+    "email": "eventorganizer1@example.com",
+    "logo_url": "https://www.freepik.com/free-vector/modern-conectivity-logo-template_3344553.htm#query=website%20logo&position=0&from_view=keyword&track=ais&uuid=32be9bc2-3f69-4533-b6d6-45abcc2f7496",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac pulvinar orci. Praesent eleifend, diam quis bibendum tristique, dolor nisi cursus nibh, sed accumsan dui libero sit amet eros. Cras eu eros nec dui finibus luctus. Vivamus vitae sapien ex. In tortor mauris, sodales vitae eros at, fringilla blandit ligula. Nunc varius sapien sit amet fermentum vehicula.",
+    "address": "Jl. abcdef, no 123",
+    "user_id": 1,
+    "created_at": "2024-04-10T20:45:25.000Z",
+    "updated_at": "2024-04-10T20:45:25.000Z"
+  }
+]
